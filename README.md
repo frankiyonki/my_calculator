@@ -1,2 +1,2 @@
-# my_calculator1.1
+# my_calculator
  
